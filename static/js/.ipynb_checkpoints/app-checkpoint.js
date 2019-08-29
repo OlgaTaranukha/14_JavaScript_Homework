@@ -56,7 +56,7 @@ function searchData(event){
 
     };
     
+    renderTable();
 }
 
-// Render the table 
-renderTable();
+
